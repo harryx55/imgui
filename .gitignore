@@ -4,6 +4,12 @@
 ## Dear ImGui artifacts
 imgui.ini
 
+## Directories
+/Debug
+
+## solution files
+*.vcxproj.user
+
 ## General build artifacts
 *.o
 *.obj
